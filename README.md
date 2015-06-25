@@ -1,2 +1,5 @@
 # TelegramPHP-webhook
-Webhook for telegram in PHP
+Webhook example for Telegram in PHP
+
+- Only works on https
+
